@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "description": "Mihomo 应用程序",
+  "homepage": "https://github.com/vernesong/mihomo/releases",
+  "license": "MIT",
+  "url": "https://github.com/vernesong/mihomo/releases/download/Prerelease-Alpha/mihomo-windows-386-alpha-smart-7b00b7e.zip",
+  "hash": "sha256:cd5535bdf056886e928aba1a15e7c0075008ec40334c7c3ff737ef8cfe09c776",
+  "bin": "mihomo.exe"
+}
