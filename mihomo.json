@@ -5,5 +5,5 @@
   "license": "MIT",
   "url": "https://github.com/vernesong/mihomo/releases/download/Prerelease-Alpha/mihomo-windows-386-alpha-smart-3a3b474.zip",
   "hash": "sha256:c0d88f43467881fefb4a7bc09a19087182d1ea1e45e70d3db13df215a84fc9ad",
-  "bin": [["mihomo-windows-386.exe","mihomo.exe"]]
+  "bin": [["mihomo-windows-386.exe","mihomo"]]
 }
